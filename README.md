@@ -18,4 +18,6 @@ To run the tests, you need to be located in the folder outside POM and use the f
  "testcafe chrome ./POM/tests/Logout.test.js", to test logout<br>
  "testcafe chrome ./POM/tests/SortingProducts.test.js", to test sorting products feature<br>
  "testcafe chrome ./POM/tests/ShoppingCart.test.js", to test the shopping cart<br>
- "testcafe chrome ./POM/tests/Checkout.test.js", to test the checkout
+ "testcafe chrome ./POM/tests/Checkout.test.js", to test the checkout<br>
+ 
+ To run them in a different browser, just change "chrome" to "firefox", "safari" or "ie".
